@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jardilene974&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ![Snake animation](https://github.com/seu-usuário-aqui/ jardilene974/blob/output/github-contribution-grid-snake.svg)
+
+
+![meu avatar](https://github.com/user-attachments/assets/16cbf111-e9f6-4426-a981-e835338b1423)
